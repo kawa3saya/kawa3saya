@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E58FC5&center=true&vCenter=true&width=600&lines=Lucky+and+happy+%E2%9C%A8;Full-Stack+Engineer+%F0%9F%92%BB;React+%2F+Next.js+%2F+Laravel+%2F+Flutter;Tokyo+%E2%86%92+Sweden+%E2%86%92+UK+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E58FC5&center=true&vCenter=true&width=600&lines=Lucky+and+happy+%E2%9C%A8;Full-Stack+Engineer+%F0%9F%92%BB;React+%2F+Next.js+%2F+TypeScript+%2F+Laravel;Based+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,53 +19,59 @@
 
 ## 🌷 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-- 💻 **Full-stack software engineer** — 2+ years building web & mobile apps at a Tokyo IT company
-- 🎓 **Waseda University** graduate, with a year abroad in rural **Sweden** 🇸🇪
+- 💻 **Full-stack software engineer** building web apps end to end
+- 🎓 **Waseda University** graduate, with a year abroad in **Sweden** 🇸🇪
 - 🇬🇧 Now based in the **United Kingdom**
-- 📱 Building a solo **iOS app** as a side project
+- 🌐 Building a **web app** as a side project
 - 🧠 Sharpening algorithms on **NeetCode**
 - 📚 Keeping notes on what I read
 - 🐰 Motto: *Lucky and happy* ✨
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kawa3saya&show_icons=true&hide_border=true&bg_color=00000000&title_color=e58fc5&icon_color=a6c1ee&text_color=8b949e&rank_icon=github" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,laravel,react,nextjs,flutter,dart,java,html,css&perline=11" />
+<br/><br/>
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma&perline=11" />
+<table>
+<tr>
+<td align="center" width="110"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="110"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="110"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kawa3saya&hide_border=true&background=00000000&ring=E58FC5&fire=A6C1EE&currStreakLabel=E58FC5&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawa3saya&layout=compact&hide_border=true&bg_color=00000000&title_color=e58fc5&text_color=8b949e" width="40%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kawa3saya&bg_color=00000000&color=8b949e&line=e58fc5&point=a6c1ee&area=true&area_color=fbc2eb&hide_border=true" width="100%" />
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=kawa3saya&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawa3saya&layout=compact&hide_border=true&bg_color=00000000&title_color=e58fc5&text_color=8b949e" width="45%" />
 
 </div>
 
